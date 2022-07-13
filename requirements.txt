@@ -1,0 +1,4 @@
+hikari[speedups]
+hikari-tanjun
+uvloop
+python-dotenv
